@@ -1,7 +1,7 @@
 # HHS CS Workshop: Convolutions
 Learn about convolutions through running convolutions on images with different kernels.  
-All of the work done by Aayush Gaywala. (All I did was some minor bug fixes :skull:)  
-[Workshop slides](https://github.com/BaroqueObama/hhs-ws-neural-networks-1/blob/main/GM8.pdf) created by Aayush.  
+**All of the code, instructions, and slides were made by [Aayush Gaywala](https://github.com/cqtqlyst).** (All I did was some minor bug fixes :skull:)  
+[Workshop slides](https://github.com/BaroqueObama/hhs-ws-neural-networks-1/blob/main/GM8.pdf) (created by Aayush)  
 ## Code:
 Written by Aayush Gaywala.
 - Convert image to grayscale.
